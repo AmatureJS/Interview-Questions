@@ -3,11 +3,6 @@ This repository will contain basic questions asked in an interview. It will be h
 
 So here are the top 27 commonly asked Job Interview Questions and Answers Samples
 
-Practice and get comfortable with these common job questions and answer samples before our
-interview and we’ll feel more confident, while giving much better answers.
-We recommend spending some time getting comfortable with what we might be asked, what
-hiring managers are really looking for in our responses, and what it takes to show that we're the
-right man or woman for the job.
 1. Can you tell me a little about yourself?
 To answer, walk them through our background, starting at how we began our career or our
 current line of work.
@@ -18,6 +13,8 @@ Good answer sample:
 my entire career at Google, receiving 3 promotions and 4 awards for outstanding performance.
 I’m looking to join a smaller company now, and take on more leadership and project
 management.”
+
+
 2. How did you hear about the position?
 This is one of the simplest question and answer scenarios in any interview, but that doesn’t mean
 it can’t ruin our chances at the job if we answer incorrectly.
@@ -28,6 +25,8 @@ more”
 “Your company was recommended to me by somebody I worked with in a previous job and had
 heard good things about your organization”
 “I heard about it from a friend”
+
+
 3. What do you know about our company?
 Our primary goal is to show we’ve done our research or knew about their company before
 applying. If we do this, we’ll be fine.
@@ -40,6 +39,8 @@ businesses. I read the list of clients on your website. Do you mostly serve Fort
 saw a couple big Fortune 500 companies mentioned on the list, including ... and ... .”
 “You’re one of the largest investment banks in the US. Your headquarters is in Raleigh, NC, and
 you have 25,000 employees worldwide based on what I read on your website.”
+
+
 4. Why did you apply for this position?
 We need to sound like we want the RIGHT job and that we’re being picky. Companies want the
 best performers, and the best performers are picky in their job hunt.
@@ -56,6 +57,8 @@ skill I hope to continue specializing in.”
 know you’re one of the leaders in this space.
 I’m very interested in your services, especially the mobile applications you’re building recently,
 so I’d be excited to come here and grow my skills with an organization like yours.”
+
+
 5. Why should we hire you?
 Try to talk about them and how we’ll help them. What will be better for them if they hire us?
 What will we improve for them?
@@ -65,6 +68,8 @@ Good answer sample:
 “I read on the job description that you’re looking for someone with experience in software
 programming. I’ve done that for 3 years and can immediately help you accomplish software
 programming”.
+
+
 6. Why are you looking to leave your current company?
 If we chose to leave on our own terms, stay positive and focus on what we wanted to gain from
 the decision, rather than bad-mouthing or focusing on negatives we wanted to avoid.
@@ -73,6 +78,8 @@ Good answer sample:
 being given the opportunity to do the work I was interested in.
 I left to pursue an opportunity that I felt was more aligned with what I’ve chosen to focus on in
 my career.”
+
+
 7. What are your greatest professional strengths?
 Answer it well and it’s one of the best ways we can show off our skills and show that we stand
 out among other candidates.
@@ -92,6 +99,8 @@ sure that everyone on the team was on the same page and knew what our messaging 
 by taking the initiative to send out a weekly email to keep the team up to date and to seek
 feedback.
 This ended up being so helpful that the weekly social media update was incorporated into a fulltime staff member’s responsibilities.”
+
+
 8. Tell me about a challenge or conflict you've faced at work,
 and how you dealt with it.
 Focus on a specific work-related challenge and talk about how we overcame obstacles, used it as
@@ -107,6 +116,9 @@ And then I re-organized my own personal tasks so I could dedicate my entire day 
 to this project as well.
 The project was a success and we delivered the work on-time. I went on to lead more projects
 after that, and used what I learned to be a better project manager.”
+
+
+
 9. How much money are you looking to earn?
 Unfortunately this question is left off of many lists of job interview questions and answers
 examples.
@@ -117,7 +129,10 @@ Good answer sample:
 “Right now I’m focused on finding a job that’s the right fit for my career.
 Once I’ve done that, I’m willing to consider an offer you feel is fair, but I do not have a specific
 number in mind yet, and my priority is to find a position that’s a great fit for me.”
-10. Why do you want to work here?
+
+
+
+0. Why do you want to work here?
 This is very similar to the question: “Why did you apply for this position?”
 Show them that we know what that their job involves (at least as much as we could learn from
 the job description and company website), and that we’re excited to be interviewing for this
@@ -129,6 +144,9 @@ as having one of the best ER’s in the region.
 I thought the job description matched up well with my background, and saw some of my personal
 strengths mentioned, like multitasking and being able to thrive in a fast paced environment, so
 I’d love to begin my career here.”
+
+
+
 11. What is your dream job?
 Career counselors like to think about good jobs as the intersection of our skills, interests, and
 values.
@@ -144,6 +162,8 @@ things like this ever since ..., so I would definitely want that to be part of m
 "Based on my skills and interests, in my dream job, I would want to ... as related to ..., ideally in 
 a company where I could ... and .... These are both really important to me, and I’m excited to see
 that they seem to be equally important to this company."
+
+
 12. Why did you leave your last job?
 If we chose to leave on our own terms, stay positive and focus on what we wanted to gain from
 the decision, rather than bad-mouthing or focusing on negatives we wanted to avoid.
@@ -156,6 +176,8 @@ opportunity to do the work I was interested in.”
 change would best for my career.”
 “I had been with the organization for a number of years and wanted to experience a new
 environment to continue growing.”
+
+
 13. What other companies are you interviewing with?
 Hiring managers are curious about what other companies we’re interviewing with for a few
 reasons.
@@ -178,8 +200,10 @@ me to use my skills in data visualization to help educate clients, but this posi
 to me.
 In fact, I think this position is a particularly good fit for my skill set because I can leverage my
 significant experience working with complicated data sets."
+
+
 14. What is your greatest weakness?
-We never want to say we struggle working with others, or we’re bad at resolving disagreements,
+We never want to say we struggle to work with others, or we’re bad at resolving disagreements
 or taking direction from a manager, etc. Those things will get us rejected in the interview.
 So pick a specific skill, but pick something that won’t severely impact our ability to do this job.
 Good answer sample:
@@ -188,13 +212,19 @@ focused entirely on email marketing.
 That’s still what I specialize in, which is why I applied for your Email Marketing Manager job.
 But I’ve realized it’s also helpful to understand the principles of social media marketing because
 some of the strategies that work there also work well in email.
-So I’ve started spending a couple hours a week of my own time studying and learning this new
+So I’ve started spending a couple of hours a week of my own time studying and learning this new
 area, and it’s helped me a lot.”
+
+
+
 15. What type of work environment do you prefer?
 Ideally one that's similar to the environment of the company we're applying to. Be specific.
 Although most places have a section on their sites devoted to explaining culture, they tend to be
 filled with phrases like “dedicated to customer satisfaction” and “we encourage our employees
 to grow.” That tells us a whole lot of nothing.
+
+
+
 16. What's a time you disagreed with a decision that was
 made at work?
 Brainstorm a few more questions that could potentially come up based on the position we’re
@@ -209,6 +239,9 @@ Good answer sample:
 “I learned early on in my professional career that it’s fine to disagree if you can back up your
 hunches with data.”
 “In short, it’s not that I’m an amazing multitasker; I just set and review my priorities frequently.”
+
+
+
 17. Where do you see yourself in 5 years?
 Pick a work-related goal of where we’d like to be five years from now, and make sure it’s
 slightly challenging or ambitious-sounding.
@@ -220,6 +253,9 @@ management or higher level individual contributions.
 I am not sure which path will make sense to pursue, but I know my goal right now is to build a
 strong foundation and gain valuable experience so that I’ll have a successful future in this
 industry.”
+
+
+
 18. Can you explain why you changed career paths?
 Have a target audience, and speak directly to it. It's super important for any job seeker.
 We’re not going to be able to just list out our job history and expect a financial services hiring
@@ -239,6 +275,9 @@ role and what we can walk through that company’s doors and deliver.
 Good answer sample:
 “Following a family relocation to Dallas…” (makes the job switch obvious) or “After a
 significant corporate restructure…” (makes it clear that our job was axed).
+
+
+
 19. Tell Me About a Time You Failed
 This is a common interview question that employers ask to see if we’re able to learn from
 mistakes and bounce back when things don’t go our way.
@@ -257,6 +296,9 @@ If I had done this instead of reacting the way I did, the situation would have t
 better.
 From that point onward, I am always conscious of whether a discussion with a team member
 should occur in public or behind closed doors, and it made me a better leader.”
+
+
+
 20. How would our boss and co-workers describe you?
 This is our chance to use the words of others to talk about our own positive traits.
 Good answer sample:
@@ -277,6 +319,9 @@ as thoughtful I’m the one in the office who remembers everyone’s birthdays�
 since I never leave my office until it’s been dark out for a couple of hours.
 My boss in particular would say I’m very knowledgeable about audience development it’s why I
 kept taking on more and more responsibilities in that domain."
+
+
+
 21. How do you deal with pressure or stressful situations?
 A great approach is to talk through our go-to stress-reduction tactics (making the world's greatest
 to-do list, stopping to take 10 deep breaths), and then share an example of a stressful situation
@@ -289,6 +334,8 @@ actually end up making a stronger impression.
 So, don’t stress too much about having the perfect stories lined up or the exact relevant
 experience. Instead, focus on the messages we’re trying to communicate to the hiring manager,
 and back them up with the stories that we have.
+
+
 22. If you were an animal, which one would you want to be?
 Seemingly random personality-test type questions like these come up in interviews generally
 because hiring managers want to see how we can think on our feet.
@@ -302,6 +349,8 @@ Once we’ve shown that we’re game and excited to tackle new problems, we’ve
 battle.
 Come up with a stalling tactic to buy ourself some thinking time, such as saying, “Now, that is a
 great question. I think I would have to say… ”
+
+
 23. What do you think we could do better or differently?
 No matter what role we’re interviewing for (engineering, sales, marketing) we should always use
 the product before our first interview (and ideally, a few times).
@@ -319,6 +368,8 @@ When we’re interviewing with a start-up, our goal is to ensure that the job is
 and to convey that to our interviewer as well.
 When we do, we’ll be in a better position to negotiate our offer and get started once we accept
 it—full of ideas on ways to hit the ground running.
+
+
 24. Are you planning on having children?
 Any questions related to our family status are technically illegal, but employers often ask them to
 get a read on our future commitment to the job and company.
@@ -330,6 +381,8 @@ a job-related topic.
 Good answer sample:
 “You know, I’m not quite there yet. But I am very interested in the career paths at your company.
 Can you tell me more about that?”
+
+
 25. What do you like to do outside of work?
 If someone asks about our hobbies outside of work, it’s totally OK to open up and share what
 really makes we tick.
@@ -345,6 +398,8 @@ would-be boss, or the CEO.
 Why? our interview answers and conversation topics should vary based on the person we're
 speaking with, and by knowing who we'll be talking to, we can spend time thinking through how
 we might connect with each of these people.
+
+
 26. What are your salary requirements?
 Unfortunately this question is left off of many lists of job interview questions and answers
 samples.
@@ -359,6 +414,9 @@ Good answer sample:
 “Right now I’m focused on finding a job that’s the right fit for my career.
 Once I’ve done that, I’m willing to consider an offer you feel is fair, but I do not have a specific
 number in mind yet, and my priority is to find a position that’s a great fit for me.”
+
+
+
 27. Do you have any questions for us?
 Do not ask about salary, benefits, time off, or anything that isn’t related to the work.
 Wait for them to bring it up, or until we know they want to offer us the position.
